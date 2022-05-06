@@ -1,3 +1,3 @@
-# Patika-PostgreSQL-Homeworks
+# Patika-PostgreSQL-Assignments
 
 Patika : https://app.patika.dev/parstr
